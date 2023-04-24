@@ -1,2 +1,1 @@
-# PrepCurse-Henrry
-Este es un repositorio de prueba del modulo 2 del Precurse de henrry
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde Githup a mi ecritorio local
